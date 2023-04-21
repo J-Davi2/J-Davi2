@@ -19,4 +19,6 @@
 
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Davi2) 💻
 
+📧 E-mail: j.davi2077t@gmail.com
+
 📞 Entre em contato por meio dessas redes sociais, ou envie uma mensagem no meu perfil do GitHub. Estou sempre aberto a novas oportunidades e desafios. 
