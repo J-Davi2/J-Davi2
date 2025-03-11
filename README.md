@@ -1,23 +1,19 @@
-## 👋 Olá, eu sou o Davi! 🙋‍♂️
+## 👋 Olá, eu sou o Davi! 🙋‍♂
 
-💻 Atualmente, estou estudando Python, HTML e CSS, e aprendendo sobre bancos de dados. Embora ainda não tenha experiência com JavaScript, estou animado para explorar essa linguagem de programação em breve. Meu objetivo é sempre buscar conhecimento e futuramente criar minha própria Inteligência Artificial.
+💻 Sou desenvolvedor com experiência em Python, JavaScript, HTML e CSS. Tenho um forte interesse em Inteligência Artificial e estou constantemente me aprofundando no estudo dessa área para aprimorar minhas habilidades e aplicar soluções inovadoras.
 
-☕️ Apesar de não gostar muito de café, eu aprecio uma boa xícara de código quente pela manhã!
+🔍 Além das linguagens de programação, também tenho experiência em engenharia de prompt, o que me permite explorar diferentes soluções tecnológicas de forma eficiente.
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas (ADS) na faculdade e estou constantemente trabalhando para aprender novas tecnologias e me manter atualizado.
+🎓 Estou em constante evolução, buscando sempre novos desafios e aprendizados para expandir meu conhecimento e minha atuação na área de tecnologia.
 
-🚀 Sou especialmente apaixonado por Python e estou sempre explorando maneiras de melhorar minhas habilidades nessa linguagem de programação incrível. E, falando em novas linguagens, atualmente minha experiência com JavaScript é "False", mas estou disposto a mudar isso em breve! Além disso, tenho um desejo curioso de aprender Lua, uma linguagem brasileira que gostaria de explorar como uma pequena meta pessoal.
-
-👨‍💻 Estou animado para compartilhar meus projetos e trabalhos aqui no GitHub e espero aprender ainda mais com a comunidade. Vamos colaborar juntos para criar soluções criativas e eficientes!
+🚀 Estou entusiasmado em compartilhar meus projetos e colaborar com a comunidade para desenvolver soluções criativas e impactantes.
 
 📧 Sinta-se à vontade para entrar em contato comigo para discutir projetos ou apenas para bater um papo!
 ## 🔗 Links 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi-779356240) 🌐
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi-779356240) 🌐[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_dg_21?igshid=ZDdkNTZiNTM=) 📷[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Davi2) 💻
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_dg_21?igshid=ZDdkNTZiNTM=) 📷
-
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Davi2) 💻
+Whatsapp: https://api.whatsapp.com/send?phone=5581982425993
 
 📧 E-mail: j.davi2077t@gmail.com
 
