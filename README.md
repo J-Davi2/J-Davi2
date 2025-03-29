@@ -11,7 +11,7 @@
 📧 Sinta-se à vontade para entrar em contato comigo para discutir projetos ou apenas para bater um papo!
 ## 🔗 Links 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi-779356240) 🌐[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_dg_21?igshid=ZDdkNTZiNTM=) 📷[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Davi2) 💻
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-davi-779356240) [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_dg_21?igshid=ZDdkNTZiNTM=) [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Davi2) 
 
 Whatsapp: https://api.whatsapp.com/send?phone=5581982425993
 
